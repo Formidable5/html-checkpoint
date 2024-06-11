@@ -1,0 +1,30 @@
+body {
+    background-color: #f3d7d7;
+    font-family: "Roboto", sans-serif;
+    font-size: medium;
+}
+nav {
+
+    text-align:justify;
+    padding-left: 915px;
+    gap: 8px;
+    font-size: medium;
+    background-color: white;
+    width: 900px;
+    height: 50px;
+    padding-top: 0%;
+    position: relative;
+
+}
+.homenv{
+    background-color: white;
+    padding: auto;
+    gap:8px ;
+    border: 500px;
+}
+#contact{
+    border-radius: 25px;
+    border-width: 500px;
+    padding: 5px;
+    
+}
